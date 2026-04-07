@@ -30,6 +30,21 @@
     "tags": ["veterans", "education", "community"]
   },
   {
+    "slug": "CO-08",
+    "name": "Aditi Muthukumar",
+    "appName": "Clearmind for Teens",
+    "description": "A data-driven cannabis education platform built for teens, parents, and schools",
+    "thumbnail": "sites/CO-08/clearmind.png",
+    "location": {
+      "lat": 39.8367,
+      "lng": -105.0372,
+      "label": "Westminster, CO"
+    },
+    "district": "CO-08",
+    "state": "CO",
+    "tags": ["healthcare", "teen-education"]
+  },
+  {
     "slug": "ID-01",
     "name": "Myles Hardy",
     "appName": "Planelooly",
@@ -45,18 +60,273 @@
     "tags": ["aviation", "geography"]
   },
   {
-    "slug": "CO-08",
-    "name": "Aditi Muthukumar",
-    "appName": "Clearmind for Teens",
-    "description": "A data-driven cannabis education platform built for teens, parents, and schools",
-    "thumbnail": "sites/CO-08/clearmind.png",
+    "slug": "VA-04",
+    "name": "Akash Arun Kumar Soumya",
+    "appName": "ElderLink AR",
+    "description": "ElderLink AR utilizes AI to provide targeted wellness advice and guidance to the elderly and offers real-time feedback through AR camera-tracking technology.",
+    "thumbnail": "sites/VA-04/thumbnail.png",
     "location": {
-      "lat": 39.8367,
-      "lng": 105.0372,
-      "label": "Westminster CO"
+      "lat": 37.5407,
+      "lng": -77.4360,
+      "label": "Richmond, VA"
     },
-    "district": "CO-08",
-    "state": "CO",
-    "tags": ["Healthcare", "Teen-Education"]
+    "district": "VA-04",
+    "state": "VA",
+    "tags": ["health", "ai"]
+  },
+  {
+    "slug": "FL-19",
+    "name": "Tony Yilmaz",
+    "appName": "Daisy",
+    "description": "Daisy organizes large groups by making communication simple, clear, and consistent.",
+    "thumbnail": "sites/FL-19/thumbnail.png",
+    "location": {
+      "lat": 26.1420,
+      "lng": -81.7948,
+      "label": "Naples, FL"
+    },
+    "district": "FL-19",
+    "state": "FL",
+    "tags": ["social", "ai"]
+  },
+  {
+    "slug": "LA-01",
+    "name": "Arav Gandhi",
+    "appName": "AIR Poker",
+    "description": "A playful version of poker where players compete against an AI opponent without real stakes, offering a low-risk outlet that supports mental well-being.",
+    "thumbnail": "sites/LA-01/thumbnail.png",
+    "location": {
+      "lat": 29.9841,
+      "lng": -90.1528,
+      "label": "Metairie, LA"
+    },
+    "district": "LA-01",
+    "state": "LA",
+    "tags": ["education", "health", "ai", "games"]
+  },
+  {
+    "slug": "FL-17",
+    "name": "Corbin Craig and Connor Craig",
+    "appName": "Cognitive Care Assistant",
+    "description": "AI-powered platform that monitors cognitive, behavioral, and physiological patterns to help caregivers track and support individuals with dementia.",
+    "thumbnail": "sites/FL-17/thumbnail.png",
+    "location": {
+      "lat": 27.3364,
+      "lng": -82.5307,
+      "label": "Sarasota, FL"
+    },
+    "district": "FL-17",
+    "state": "FL",
+    "tags": ["health", "social", "ai", "accessibility"]
+  },
+  {
+    "slug": "NJ-03",
+    "name": "Adi Khurana",
+    "appName": "AlertNow",
+    "description": "A real-time, low-cost AI system that detects potential gun threats in schools using both audio and video analysis to enable faster emergency response.",
+    "thumbnail": "sites/NJ-03/thumbnail.png",
+    "location": {
+      "lat": 39.9690,
+      "lng": -74.9490,
+      "label": "Moorestown, NJ"
+    },
+    "district": "NJ-03",
+    "state": "NJ",
+    "tags": ["health", "ai", "safety"]
+  },
+  {
+    "slug": "DC-01",
+    "name": "Shivaj Raman",
+    "appName": "DIVENDO",
+    "description": "A financial literacy app that helps people learn about finances and how to trade on the stock market using lessons, tutorials, and simulations.",
+    "thumbnail": "sites/DC-01/thumbnail.png",
+    "location": {
+      "lat": 38.9072,
+      "lng": -77.0369,
+      "label": "Washington, DC"
+    },
+    "district": "DC-01",
+    "state": "DC",
+    "tags": ["education", "finance", "games"]
+  },
+  {
+    "slug": "MI-08",
+    "name": "Diya Ramakrishnan",
+    "appName": "PRISM",
+    "description": "A surgical AI tool that guides pancreatic surgeons through pre-operative planning and real-time mixed-reality organ detection.",
+    "thumbnail": "sites/MI-08/thumbnail.png",
+    "location": {
+      "lat": 43.4195,
+      "lng": -83.9508,
+      "label": "Saginaw, MI"
+    },
+    "district": "MI-08",
+    "state": "MI",
+    "tags": ["health", "ai"]
+  },
+  {
+    "slug": "NE-02",
+    "name": "Gavin Vernon and Michael Zhang",
+    "appName": "Youth Policy Pulse",
+    "description": "Tracks Congressional data in real-time, allowing students to view summaries of current bills and interact with them.",
+    "thumbnail": "sites/NE-02/thumbnail.png",
+    "location": {
+      "lat": 41.2565,
+      "lng": -95.9345,
+      "label": "Omaha, NE"
+    },
+    "district": "NE-02",
+    "state": "NE",
+    "tags": ["education", "civic"]
+  },
+  {
+    "slug": "TX-14",
+    "name": "Aarush Sinha",
+    "appName": "Vision Warriors",
+    "description": "A computer vision application that integrates OCR, color detection, and text recognition to assist visually impaired individuals.",
+    "thumbnail": "sites/TX-14/thumbnail.png",
+    "location": {
+      "lat": 29.5075,
+      "lng": -95.0950,
+      "label": "League City, TX"
+    },
+    "district": "TX-14",
+    "state": "TX",
+    "tags": ["health", "accessibility", "ai"]
+  },
+  {
+    "slug": "TX-09",
+    "name": "Adel Sisy",
+    "appName": "Delta Protein Atlas",
+    "description": "A computational framework integrating disease, protein sequence, structure, and mutation data for therapeutic discovery.",
+    "thumbnail": "sites/TX-09/thumbnail.png",
+    "location": {
+      "lat": 29.7604,
+      "lng": -95.3698,
+      "label": "Houston, TX"
+    },
+    "district": "TX-09",
+    "state": "TX",
+    "tags": ["health", "ai", "science"]
+  },
+  {
+    "slug": "VA-09",
+    "name": "Nathan Chen",
+    "appName": "Project Rush",
+    "description": "Project Rush connects high school students with local volunteer opportunities, bringing discovery, hour tracking, achievements, and leaderboards together.",
+    "thumbnail": "sites/VA-09/thumbnail.png",
+    "location": {
+      "lat": 37.2296,
+      "lng": -80.4139,
+      "label": "Blacksburg, VA"
+    },
+    "district": "VA-09",
+    "state": "VA",
+    "tags": ["education", "social"]
+  },
+  {
+    "slug": "CA-33",
+    "name": "Bettina Lee and Elena Nguyen",
+    "appName": "Lungitude+",
+    "description": "A real-time carcinogenic particulate tracking system and educational platform designed to protect communities affected by wildfire smoke.",
+    "thumbnail": "sites/CA-33/thumbnail.png",
+    "location": {
+      "lat": 34.1064,
+      "lng": -117.5931,
+      "label": "Rancho Cucamonga, CA"
+    },
+    "district": "CA-33",
+    "state": "CA",
+    "tags": ["health", "environment", "ai"]
+  },
+  {
+    "slug": "MI-04",
+    "name": "John I. Bolden II",
+    "appName": "Study Oasis",
+    "description": "A study app that helps middle and high school students with focus timers, task lists, and a safe AI tutor.",
+    "thumbnail": "sites/MI-04/thumbnail.png",
+    "location": {
+      "lat": 42.2917,
+      "lng": -85.5872,
+      "label": "Kalamazoo, MI"
+    },
+    "district": "MI-04",
+    "state": "MI",
+    "tags": ["education", "ai"]
+  },
+  {
+    "slug": "VA-06",
+    "name": "Iacopo Schianchi",
+    "appName": "Vantage AI",
+    "description": "An AI research tool that helps researchers and students find answers based on scientific literature.",
+    "thumbnail": "sites/VA-06/thumbnail.png",
+    "location": {
+      "lat": 39.1857,
+      "lng": -78.1633,
+      "label": "Winchester, VA"
+    },
+    "district": "VA-06",
+    "state": "VA",
+    "tags": ["education", "ai"]
+  },
+  {
+    "slug": "NY-23",
+    "name": "Shawn De Pedro",
+    "appName": "InvestNYou",
+    "description": "A comprehensive financial literacy app that builds personal finance skills from the ground up through courses, quizzes, and interactive tools.",
+    "thumbnail": "sites/NY-23/thumbnail.png",
+    "location": {
+      "lat": 42.1428,
+      "lng": -77.0547,
+      "label": "Corning, NY"
+    },
+    "district": "NY-23",
+    "state": "NY",
+    "tags": ["education", "ai", "finance"]
+  },
+  {
+    "slug": "OH-14",
+    "name": "Graham Anderson",
+    "appName": "Swell",
+    "description": "An app that provides senior citizens with games like crossword puzzles, sudoku, and trivia to keep their brains engaged and active.",
+    "thumbnail": "sites/OH-14/thumbnail.png",
+    "location": {
+      "lat": 41.8050,
+      "lng": -80.9481,
+      "label": "Geneva, OH"
+    },
+    "district": "OH-14",
+    "state": "OH",
+    "tags": ["health", "games"]
+  },
+  {
+    "slug": "PR-00",
+    "name": "Lorena Pachiardi",
+    "appName": "GoldenCarePR",
+    "description": "Puerto Rico's all-in-one elderly care platform centralizing resources on services, benefits, legal rights, digital safety, and health.",
+    "thumbnail": "sites/PR-00/thumbnail.png",
+    "location": {
+      "lat": 18.4655,
+      "lng": -66.1057,
+      "label": "San Juan, PR"
+    },
+    "district": "PR-00",
+    "state": "PR",
+    "tags": ["health"]
+  },
+  {
+    "slug": "NC-02",
+    "name": "Aharshi Bhattacharjee",
+    "appName": "MotionBloom",
+    "description": "An AI-driven therapy app that tracks hand tremors in real time and uses interactive video gating to improve motor control.",
+    "thumbnail": "sites/NC-02/thumbnail.png",
+    "location": {
+      "lat": 35.8235,
+      "lng": -78.8256,
+      "label": "Morrisville, NC"
+    },
+    "district": "NC-02",
+    "state": "NC",
+    "tags": ["health", "ai", "accessibility"]
   }
 ]
